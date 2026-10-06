@@ -6,7 +6,7 @@ Some things I've built:
 - [Settle](https://settlefinance.vercel.app): shared family wallets for sending and splitting money in naira
 - [termforge](https://github.com/dotunv/termforge): a GPU-rendered terminal for Windows, in Rust (still early)
 - [Grizzly](https://github.com/dotunv/kogbeds): a small blogging platform in NestJS
-- [cheetah-api](https://github.com/dotunv/cheetah-api): an intercity bus booking API with Paystack payments
+- [yadah](https://yadah-eight.vercel.app): a creative canvas experience on the web
 
 I also contribute to open source.
 
